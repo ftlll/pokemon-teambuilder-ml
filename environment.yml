@@ -1,0 +1,12 @@
+name: pokemon-ml
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pytorch
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - requests
